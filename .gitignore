@@ -30,12 +30,8 @@ target
 target/
 /target/generated-sources/
 /target/generated-sources
-/target/JSP_Project_Gestor/
-/target/JSP_Project_Gestor
 /target/classes/
 /target/classes
-
-/target/JSP_Project_Gestor.war
 
 
 
